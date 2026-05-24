@@ -150,13 +150,13 @@ while True:
         print("--- CẢNH BÁO TỒN KHO THẤP ---")
 
         if qty_laptop < 10:
-            print(f"[CẢNH BÁO] Laptop sắp hết")
+            print("[CẢNH BÁO] Laptop sắp hết")
 
         if qty_phone < 10:
-            print(f"[CẢNH BÁO] Phone sắp hết")
+            print("[CẢNH BÁO] Phone sắp hết")
 
         if qty_tablet < 10:
-            print(f"[CẢNH BÁO] Tablet")
+            print("[CẢNH BÁO] Tablet sắp hết")
 
     # 5. THOÁT
     elif choice == 5:
