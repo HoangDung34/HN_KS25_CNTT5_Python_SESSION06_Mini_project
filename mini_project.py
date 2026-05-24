@@ -1,4 +1,3 @@
-# Khởi tạo tồn kho
 qty_laptop = 0
 qty_phone = 0
 qty_tablet = 0
